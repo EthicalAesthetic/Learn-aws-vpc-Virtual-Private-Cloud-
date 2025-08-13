@@ -1,7 +1,8 @@
 ## Learning AWS VPC step-by-step
 
 `Virtual Private Cloud`
- ### The Flow will be : 
+ ### Will learn the following : 
+
  <ol>
    <li>IPv4 addressing</li>
    <li>VPC overview</li>

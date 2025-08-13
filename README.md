@@ -1,7 +1,5 @@
-## Learning AWS VPC step-by-step
-
 `Virtual Private Cloud`
- ### Will learn the following : 
+ ## Will learn the following : 
 
  <ol>
    <li>IPv4 addressing</li>
